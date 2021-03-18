@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prakhar Rastogi
+- 👋 Hi, I’m @PrakharRastogi123
 - 👀 I’m interested in developing and learning new computer algorithms
 - 📫 How to reach me : prkharrastogi99.pr@gmail.com
 
